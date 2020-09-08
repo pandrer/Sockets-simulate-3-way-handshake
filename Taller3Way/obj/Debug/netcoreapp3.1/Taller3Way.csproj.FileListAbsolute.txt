@@ -1,0 +1,13 @@
+C:\Users\pandr\source\repos\Taller3Way\Taller3Way\bin\Debug\netcoreapp3.1\Taller3Way.exe
+C:\Users\pandr\source\repos\Taller3Way\Taller3Way\bin\Debug\netcoreapp3.1\Taller3Way.deps.json
+C:\Users\pandr\source\repos\Taller3Way\Taller3Way\bin\Debug\netcoreapp3.1\Taller3Way.runtimeconfig.json
+C:\Users\pandr\source\repos\Taller3Way\Taller3Way\bin\Debug\netcoreapp3.1\Taller3Way.runtimeconfig.dev.json
+C:\Users\pandr\source\repos\Taller3Way\Taller3Way\bin\Debug\netcoreapp3.1\Taller3Way.dll
+C:\Users\pandr\source\repos\Taller3Way\Taller3Way\bin\Debug\netcoreapp3.1\Taller3Way.pdb
+C:\Users\pandr\source\repos\Taller3Way\Taller3Way\obj\Debug\netcoreapp3.1\Taller3Way.csprojAssemblyReference.cache
+C:\Users\pandr\source\repos\Taller3Way\Taller3Way\obj\Debug\netcoreapp3.1\Taller3Way.AssemblyInfoInputs.cache
+C:\Users\pandr\source\repos\Taller3Way\Taller3Way\obj\Debug\netcoreapp3.1\Taller3Way.AssemblyInfo.cs
+C:\Users\pandr\source\repos\Taller3Way\Taller3Way\obj\Debug\netcoreapp3.1\Taller3Way.csproj.CoreCompileInputs.cache
+C:\Users\pandr\source\repos\Taller3Way\Taller3Way\obj\Debug\netcoreapp3.1\Taller3Way.dll
+C:\Users\pandr\source\repos\Taller3Way\Taller3Way\obj\Debug\netcoreapp3.1\Taller3Way.pdb
+C:\Users\pandr\source\repos\Taller3Way\Taller3Way\obj\Debug\netcoreapp3.1\Taller3Way.genruntimeconfig.cache

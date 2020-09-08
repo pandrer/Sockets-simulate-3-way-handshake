@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Taller3Way/1.0.0": {
+        "runtime": {
+          "Taller3Way.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taller3Way/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
